@@ -6,6 +6,7 @@ class SongsController < ApplicationController
   end
 
   def upload
+    
   end
 
   def show
